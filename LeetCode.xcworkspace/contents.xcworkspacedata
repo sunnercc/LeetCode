@@ -4,4 +4,7 @@
    <FileRef
       location = "group:&#x8bbe;&#x8ba1;&#x5faa;&#x73af;&#x961f;&#x5217;/&#x8bbe;&#x8ba1;&#x5faa;&#x73af;&#x961f;&#x5217;.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:&#x5c9b;&#x5c7f;&#x7684;&#x4e2a;&#x6570;/&#x5c9b;&#x5c7f;&#x7684;&#x4e2a;&#x6570;.xcodeproj">
+   </FileRef>
 </Workspace>
