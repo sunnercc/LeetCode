@@ -20,7 +20,7 @@ int next[4][2] = {
 char b[100][100] = {0};
 
 
-void dfs(int x, int y,char **grid, int bRow, int bCol)
+void dfs(int x, int y,char** grid, int bRow, int bCol)
 {
     char *g = (char *)grid;
     // 标记路径
